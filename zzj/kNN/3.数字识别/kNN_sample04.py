@@ -38,7 +38,7 @@ Returns:
 	无
 
 Modify:
-	2017-07-15
+	2020-06-23
 """
 def handwritingClassTest():
     #测试集的Labels
